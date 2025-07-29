@@ -13,13 +13,13 @@ Submitted a project on Image Classification of Cats using Logistic Regression
 # Week 4
 Completed a Mini Project of digit classification using the softmax model 
 
-#Week 5
+# Week 5
 Learnt about Convolutional Neural Networks
 
-#Week 6
+# Week 6
 Used tensorflow for training models
 
-#Week 7 and 8
+# Week 7 and 8
 Used the knowledge gained in the previous weeks and trained a fine-grained classification
 model using tensorflow, numpy, pandas 
 The model trained had an accuracy of 71.23% and 2% loss
