@@ -1,4 +1,4 @@
-# SOC_Midterm_checkpoint
+# SOC_checkpoints
 # Week 1
 Learned about basic of python and different python libraries like numpy and matplotlib
 
