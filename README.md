@@ -23,3 +23,9 @@ Used tensorflow for training models
 Used the knowledge gained in the previous weeks and trained a fine-grained classification
 model using tensorflow, numpy, pandas 
 The model trained had an accuracy of 71.23% and 2% loss
+
+# Dataset link:
+https://data.caltech.edu/records/65de6-vp158/files/CUB_200_2011.tgz?download=1
+
+# Google drive link having the trained model
+https://drive.google.com/file/d/15HlUS6Te9x_wQD2qTlxIq9a_9oiDQWtp/view?usp=sharing
